@@ -24,8 +24,7 @@ module.exports = {
   },
   navBarButton: {
     fontSize: 17,
-    letterSpacing: 0.5,
-    marginTop: 12,
+    letterSpacing: 0.5
   },
   navBarTitleText: {
     fontSize: 17,
